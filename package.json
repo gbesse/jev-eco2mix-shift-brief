@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-eco2mix-shift-brief",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Décrit les changements du mix électrique français à partir des séries éCO2mix calculées et sourcées.",
   "type": "module",
   "license": "MIT",
